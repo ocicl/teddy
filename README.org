@@ -4,7 +4,7 @@ A data framework for Common Lisp
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/40ants/teddy.git |
-| commit  | 71768b7                                 |
+| commit  | 2f0bccb                                 |
 | systems | teddy                                   |
 |---------+-----------------------------------------|
   
